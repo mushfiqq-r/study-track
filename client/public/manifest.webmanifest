@@ -1,0 +1,17 @@
+{
+  "name": "Study Track — private revision desk",
+  "short_name": "Study Track",
+  "description": "A local-first spaced revision planner that stores study records on this device.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e7",
+  "theme_color": "#c7654f",
+  "icons": [
+    {
+      "src": "/manus-storage/study-track-ledger-mark_03e195a4.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
